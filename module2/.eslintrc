@@ -9,7 +9,7 @@
   "rules": {
     "strict": ["error", "never"]
   },
-  "extends": ["eslint:recommended"],
+  "extends": ["eslint:recommended", "eslint-config-prettier"],
   "env": {
     "browser": true
   }
